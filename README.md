@@ -50,13 +50,16 @@ Bug reports documented: `21`, with `3 critical issues` and `5 blocking issues`
 
 ## 🐞 Sample Bug Report
 
-> **Title**: Forgot Password link is functional 
-> **Severity**: Blocking  
-> **Steps to Reproduce**:
-> 1. Open the LOGIN Page from the Home Page
-> 2. Click the link
-> **Expected**: Opens Restore Password Page.
-> **Actual result**: The link is not working.
+**Title**: Forgot Password link is functional  
+**Severity**: Blocking  
+
+**Steps to Reproduce**:
+1. Open the LOGIN Page from the Home Page  
+2. Click the link  
+
+**Expected**: Opens Restore Password Page.  
+**Actual result**: The link is not working.
+
 
 ---
 
@@ -71,12 +74,13 @@ Bug reports documented: `21`, with `3 critical issues` and `5 blocking issues`
 
 ## 🔗 Live App URL
 
-[Movie Catalog App](https://d24hkho2ozf732.cloudfront.net/)
+<a href="https://d24hkho2ozf732.cloudfront.net/" target="_blank">Movie Catalog App</a>
 
 ---
 
 ## 👩‍💻 Author
 
 **Iliyan Aptovski** 
-[LinkedIn](https://www.linkedin.com/in/iliyan-aptovski-216224350/) | [GitHub](https://github.com/IliyanAptovski)
+<a href="https://www.linkedin.com/in/iliyan-aptovski-216224350/" target="_blank">LinkedIn</a> |
+<a href="https://github.com/IliyanAptovski" target="_blank">GitHub</a>
 
